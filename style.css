@@ -158,3 +158,8 @@ button {
     color: #FFF;
     font-family:'Staatliches';
 }
+
+button:hover {
+    background: #d34662;
+    cursor: pointer;
+}
