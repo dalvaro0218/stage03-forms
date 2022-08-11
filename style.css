@@ -25,6 +25,9 @@ header {
 }
 
 header h1 {
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 400;
     font-family: 'Staatliches';
     color: #fff;
 }
@@ -32,6 +35,9 @@ header h1 {
 header p {
     font-family: 'Poppins';
     color: #fff;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 30px;
 }
 
 header span {
@@ -143,6 +149,7 @@ footer {
 button {
     padding: 15px 40px;
     gap: 10px;
+    font-size: 20px;
     background: #FF5374;
     border-radius: 20px;
     border: none;
